@@ -50,7 +50,7 @@ Add this to your HTML page:
 </script>
 
 <!-- Load the quiz application -->
-<script src="https://cdn.jsdelivr.net/gh/yourusername/quiz-app@main/quiz-app.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/vijaibishnoi/Vijay-Bishnoi-Blogger@main/quiz.min.js"></script>
 ```
 
 ### Method 2: Using a Global Variable
@@ -66,7 +66,7 @@ window.quizData = [
   }
 ];
 </script>
-<script src="https://cdn.jsdelivr.net/gh/yourusername/quiz-app@main/quiz-app.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/vijaibishnoi/Vijay-Bishnoi-Blogger@main/quiz.min.js"></script>
 ```
 
 ## 📝 Creating Quiz Data
