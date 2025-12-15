@@ -1,1 +1,1 @@
-# Vijay-Bishnoi-Blogger-Quiz
+# Vijay-Bishnoi-Blogger
