@@ -1,4 +1,4 @@
-// Quiz Application - Single File Implementation
+// Quiz Application
 (function() {
     'use strict';
     
@@ -169,6 +169,7 @@
                             <li>Select one answer for each question</li>
                             <li>You can navigate between questions</li>
                             <li>Answers are auto-saved</li>
+                            <li>You can skip questions and submit anytime</li>
                             <li>Click Submit when finished</li>
                         </ul>
                     </div>
@@ -388,6 +389,15 @@
                 border: 2px solid ${CONFIG.COLORS.border};
             }
             
+            .submit-status {
+                font-size: 0.9em;
+                color: ${CONFIG.COLORS.lightText};
+                background: white;
+                padding: 8px 16px;
+                border-radius: 20px;
+                border: 2px solid ${CONFIG.COLORS.border};
+            }
+            
             /* Question Area */
             .question-area {
                 margin-bottom: 20px;
@@ -497,6 +507,7 @@
                 border-radius: 50%;
                 border: 3px solid ${CONFIG.COLORS.border};
                 background: white;
+                color: ${CONFIG.COLORS.primary};
                 cursor: pointer;
                 display: flex;
                 align-items: center;
@@ -511,6 +522,7 @@
             .scroller-btn:hover {
                 transform: scale(1.05);
                 border-color: ${CONFIG.COLORS.primary};
+                color: ${CONFIG.COLORS.primary};
             }
             
             .scroller-btn.answered {
@@ -891,6 +903,11 @@
                     padding: 6px 12px;
                 }
                 
+                .submit-status {
+                    font-size: 0.85em;
+                    padding: 6px 12px;
+                }
+                
                 .question-text {
                     font-size: 1.2em;
                     padding: 16px;
@@ -1014,7 +1031,7 @@
                     gap: 8px;
                 }
                 
-                .timer, .question-counter {
+                .timer, .question-counter, .submit-status {
                     align-self: center;
                     width: fit-content;
                 }
@@ -1175,7 +1192,7 @@
                     padding: 8px;
                 }
                 
-                .timer, .question-counter {
+                .timer, .question-counter, .submit-status {
                     font-size: 0.9em;
                     padding: 5px 10px;
                 }
@@ -1223,13 +1240,17 @@
         }
         
         const currentQuestion = quizState.questions[quizState.currentIndex];
-        const progressPercentage = (Object.keys(quizState.userAnswers).length / quizState.questions.length) * 100;
+        const answeredCount = Object.keys(quizState.userAnswers).length;
+        const progressPercentage = (answeredCount / quizState.questions.length) * 100;
         
         elements.container.innerHTML = `
             <div class="quiz-header">
                 <div class="timer" id="quiz-timer">00:00</div>
                 <div class="question-counter">
                     Question ${quizState.currentIndex + 1} of ${quizState.questions.length}
+                </div>
+                <div class="submit-status">
+                    ${answeredCount} of ${quizState.questions.length} answered
                 </div>
             </div>
             
@@ -1251,9 +1272,8 @@
                     ← Previous
                 </button>
                 
-                <button class="nav-btn submit-btn" id="submit-btn" 
-                    ${Object.keys(quizState.userAnswers).length === quizState.questions.length ? '' : 'disabled'}>
-                    ✓ Submit
+                <button class="nav-btn submit-btn" id="submit-btn">
+                    ✓ Submit Quiz
                 </button>
                 
                 <button class="nav-btn" id="next-btn" 
@@ -1315,7 +1335,7 @@
             button.className = `scroller-btn ${isAnswered ? 'answered' : ''} ${isCurrent ? 'current' : ''}`;
             button.textContent = index + 1;
             button.dataset.index = index;
-            button.title = `Question ${index + 1}${isAnswered ? ' (Answered)' : ''}`;
+            button.title = `Question ${index + 1}${isAnswered ? ' (Answered)' : ' (Not Answered)'}`;
             
             elements.scroller.appendChild(button);
         });
@@ -1355,16 +1375,18 @@
         // Update scroller
         updateScrollerButton(quizState.currentIndex);
         
-        // Update progress bar
-        const progressPercentage = (Object.keys(quizState.userAnswers).length / quizState.questions.length) * 100;
+        // Update progress bar and status
+        const answeredCount = Object.keys(quizState.userAnswers).length;
+        const progressPercentage = (answeredCount / quizState.questions.length) * 100;
         const progressFill = document.querySelector('.progress-fill');
         if (progressFill) {
             progressFill.style.width = `${progressPercentage}%`;
         }
         
-        // Enable submit button if all questions answered
-        if (Object.keys(quizState.userAnswers).length === quizState.questions.length) {
-            elements.submitBtn.disabled = false;
+        // Update answered count display
+        const statusElement = document.querySelector('.submit-status');
+        if (statusElement) {
+            statusElement.textContent = `${answeredCount} of ${quizState.questions.length} answered`;
         }
         
         // Save progress
@@ -1391,7 +1413,7 @@
     
     // Submit quiz
     function submitQuiz() {
-        if (confirm('Are you sure you want to submit the quiz? You cannot change answers after submission.')) {
+        if (confirm('Are you sure you want to submit the quiz? You will not be able to change answers after submission.')) {
             clearInterval(quizState.timerInterval);
             quizState.isSubmitted = true;
             renderResults();
@@ -1490,7 +1512,7 @@
                     </div>
                 `;
             } else {
-                userAnswerHtml = '<div class="unanswered-text"><strong>Your Answer:</strong> You did not answer this question</div>';
+                userAnswerHtml = '<div class="unanswered-text"><strong>Your Answer:</strong> You skipped this question</div>';
             }
             
             const correctAnswerHtml = `
