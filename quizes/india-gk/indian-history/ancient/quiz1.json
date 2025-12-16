@@ -1,0 +1,1091 @@
+[
+  {
+    "question": "सिंधु घाटी सभ्यता (IVC) की लिपि की लेखन शैली क्या थी जिसे अभी तक समझा नहीं गया है?",
+    "options": [
+      "ब्राह्मी (Brahmi)",
+      "खरोष्ठी (Kharosthi)",
+      "बोस्ट्रोफेडॉन (Boustrophedon)",
+      "देवनागरी (Devanagari)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "IVC की लिपि की लेखन शैली बोस्ट्रोफेडॉन (Boustrophedon) थी, जिसमें पहली पंक्ति दाएं से बाएं और दूसरी बाएं से दाएं लिखी जाती थी [1, 2]।"
+  },
+  {
+    "question": "पुरापाषाण काल (Palaeolithic Period) के दौरान मनुष्य का मुख्य निर्वाह साधन क्या था?",
+    "options": [
+      "कृषि (Agriculture)",
+      "शिकार (Hunting) और भोजन संग्रहण",
+      "पशुपालन (Animal Husbandry)",
+      "मत्स्य पालन (Fishing)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "इस चरण के अंत में होमो सेपियंस (Homo sapiens) का उदय हुआ, और मनुष्य भोजन का संग्रह करता था तथा शिकार पर निर्भर था [3, 4]।"
+  },
+  {
+    "question": "सिंधु घाटी सभ्यता (IVC) के किस स्थल से घोड़े के अवशेष (evidence of horse) पाए गए हैं?",
+    "options": [
+      "हड़प्पा (Harappa)",
+      "मोहनजोदड़ो (Mohenjodaro)",
+      "कालीबंगन (Kalibangan)",
+      "सुरकोटड़ा (Surkotada)"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "घोड़े का साक्ष्य (evidence of horse) सुरकोटड़ा (Surkotada) से पाया गया है, जो एक संभावित बंदरगाह शहर था [5, 6]।"
+  },
+  {
+    "question": "मोहनजोदड़ो (Mohenjodaro) में विशाल स्नानागार (The Great Bath) का उपयोग किस उद्देश्य के लिए किया जाता था?",
+    "options": [
+      "सार्वजनिक भोजन (Public meals)",
+      "धार्मिक स्नान (Religious bathing)",
+      "प्रशासनिक बैठकें (Administrative meetings)",
+      "व्यापारिक लेन-देन (Trade transactions)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "विशाल स्नानागार (The Great Bath) का उपयोग धार्मिक स्नान (religious bathing) के लिए किया जाता था, और इसके साथ कपड़े बदलने के कमरे (changing rooms) भी थे [7, 8]।"
+  },
+  {
+    "question": "हड़प्पा सभ्यता (Harappan Civilisation) का कौन सा स्थल अपनी अद्वितीय जल प्रबंधन प्रणाली (unique water management system) और तीन भागों में विभाजित होने के लिए जाना जाता है?",
+    "options": [
+      "लोथल (Lothal)",
+      "कालीबंगन (Kalibangan)",
+      "धोलावीरा (Dholavira)",
+      "बनवाली (Banawali)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "धोलावीरा (Dholavira), जो कच्छ जिले में लूनी नदी (River Luni) पर पाया गया था, अपनी जल प्रबंधन प्रणाली और तीन भागों में विभाजित होने वाला एकमात्र स्थल है [5, 6]।"
+  },
+  {
+    "question": "सिंधु घाटी सभ्यता (IVC) के लोग किन धातुओं से अनभिज्ञ थे?",
+    "options": [
+      "तांबा (Copper)",
+      "सोना (Gold)",
+      "चाँदी (Silver)",
+      "लोहा (Iron)"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "इस सभ्यता की एक बहुत ही दिलचस्प विशेषता यह थी कि लोगों को लोहे (iron) के बारे में जानकारी नहीं थी [9, 10]।"
+  },
+  {
+    "question": "नवपाषाण काल (Neolithic Period) का वह महत्वपूर्ण स्थल कौन सा है जिसका शाब्दिक अर्थ 'भूर्ज वृक्ष का स्थान' (the place of birch) है?",
+    "options": [
+      "मेहरगढ़ (Mehrgarh)",
+      "बुर्जहोम (Burzahom)",
+      "भीमबेटका (Bhimbetka)",
+      "चिरंद (Chirand)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "बुर्जहोम (Burzahom) नवपाषाण काल का एक महत्वपूर्ण स्थल था, जिसका अर्थ 'भूर्ज वृक्ष का स्थान' है [9, 11]।"
+  },
+  {
+    "question": "सिंधु घाटी सभ्यता का सबसे बड़ा स्थल (largest site) कौन सा है?",
+    "options": [
+      "हड़प्पा (Harappa)",
+      "मोहनजोदड़ो (Mohenjodaro)",
+      "राखीगढ़ी (Rakhigarhi)",
+      "लोथल (Lothal)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "राखीगढ़ी (हरियाणा) सिंधु घाटी का सबसे बड़ा स्थल है [5, 12]।"
+  },
+  {
+    "question": "मोहनजोदड़ो में मिली 'पशुपति महादेव' (Pashupati Mahadeva) की मुहर पर कौन से जानवर चित्रित हैं, और उनके पैरों में दो हिरण (deers) दिखाई देते हैं?",
+    "options": [
+      "हाथी, बाघ, गैंडा और भैंस (Elephant, Tiger, Rhinoceros, and Buffalo)",
+      "शेर, घोड़ा, ऊँट और बैल",
+      "बाघ, भालू, तेंदुआ और बकरी",
+      "गाय, हाथी, भेड़ और बकरी"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "पशुपति (Pashupati) की मुहर पर हाथी, बाघ, गैंडा (rhinoceros) और भैंस (buffalo) चित्रित हैं [1, 13]।"
+  },
+  {
+    "question": "IVC में वजन और माप किस गुणक (multiples) में उपयोग किए जाते थे?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "सिंधु लोग वजन और माप का उपयोग 16 के गुणक (multiples of 16) में करते थे [10, 14]।"
+  },
+  {
+    "question": "कालीबंगन (Kalibangan) जो घग्गर नदी पर स्थित था, किस विशिष्ट खोज (finding) के लिए जाना जाता है?",
+    "options": [
+      "विशाल स्नानागार",
+      "हल से जुता हुआ खेत (ploughed field)",
+      "कांस्य की नाचती हुई लड़की (bronze dancing girl)",
+      "सात अन्न भंडार (seven granaries)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "कालीबंगन (Kalibangan) से हल से जुते हुए खेत (ploughed field) और सात अग्नि-वेदियां (seven fire-altars) के साक्ष्य मिले हैं [5, 15]।"
+  },
+  {
+    "question": "प्राचीन भारतीय इतिहास में 'सिंडन' (Sindon) शब्द का प्रयोग किसके लिए किया जाता था, जो सिंधु (Sindh) से लिया गया है?",
+    "options": [
+      "चावल (Rice)",
+      "कपास (Cotton)",
+      "गेहूँ (Wheat)",
+      "जौ (Barley)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "सिंधु लोग कपास (cotton) का उत्पादन करने वाले पहले थे, जिसे यूनानियों (Greeks) ने 'सिंडन' कहा था [7, 10]।"
+  },
+  {
+    "question": "लोथल (Lothal) किस नदी पर स्थित था और यह किसलिए प्रसिद्ध था?",
+    "options": [
+      "रावी, कब्रिस्तान-H",
+      "सिंधु, विशाल स्नानागार",
+      "भोगवा (Bhogava), गोदीवाड़ा (dockyard)",
+      "लूनी, जल प्रबंधन प्रणाली"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "लोथल (Lothal) की खोज एस. आर. राव (S. R. Rao) ने की थी और यह भोगवा नदी पर स्थित था। यहाँ गोदीवाड़ा (dockyard) और चावल (rice) के साक्ष्य मिले हैं [5, 15]।"
+  },
+  {
+    "question": "चालकोलिथिक काल (Chalcolithic Period) की मुख्य विशेषता क्या थी?",
+    "options": [
+      "केवल पत्थर के औजारों का उपयोग",
+      "तांबा और पत्थर के औजारों का उपयोग (Use of Copper and Stone tools)",
+      "लोहे के औजारों का व्यापक उपयोग",
+      "केवल कृषि पर निर्भरता"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "चालकोलिथिक काल (Chalcolithic Period) में तांबे (Copper) और पत्थर (Stone) से बने औजारों का उपयोग किया जाता था [9, 11]।"
+  },
+  {
+    "question": "सिंधु घाटी सभ्यता का पूर्वी सीमांत स्थल (Easternmost boundary) कौन सा है?",
+    "options": [
+      "मांडा (Mandu) (J&K)",
+      "सुतकागेंडोर (Sutkagendor) (West)",
+      "आलमगीरपुर (Alamgirpur) (East)",
+      "दैमाबाद (Daimabad) (South)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "सिंधु सभ्यता की पूर्वी सीमा आलमगीरपुर (Alamgirpur) थी [2, 5]।"
+  },
+  {
+    "question": "ऋग्वैदिक काल (Rig Vedic Period) में 'जना' (Jana) शब्द का उल्लेख कितनी बार किया गया है?",
+    "options": [
+      "175",
+      "275",
+      "375",
+      "475"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "लोग जनजाति के प्रति वफादार थे, जिसे 'जना' कहा जाता था (ऋग्वेद में 275 बार उल्लेखित) [16, 17]।"
+  },
+  {
+    "question": "उत्तर वैदिक काल (Later Vedic Period) में मुख्य देवता 'प्रजापति' (Prajapati) के बाद कौन से दो देवता महत्वपूर्ण थे?",
+    "options": [
+      "इंद्र और अग्नि (Indra and Agni)",
+      "रुद्र (Rudra) और विष्णु (Vishnu)",
+      "सोम और सूर्य (Soma and Surya)",
+      "वरुण और मारुत (Varuna and Marut)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "प्रजापति सर्वोच्च देव बन गए, उसके बाद रुद्र (पशुओं के देव) और भगवान विष्णु (रक्षक) थे [18, 19]।"
+  },
+  {
+    "question": "ऋग्वैदिक काल में, राजा को स्वैच्छिक भेंट (voluntary tribute) क्या कहा जाता था?",
+    "options": [
+      "बलि (Bali)",
+      "जज़िया (Jizya)",
+      "खराज (Kharaj)",
+      "कर (Tax)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "कोई नियमित राजस्व प्रणाली नहीं थी, राज्य का रखरखाव स्वैच्छिक भेंट 'बलि' (Bali) और युद्ध में जीती गई लूट से होता था [20, 21]।"
+  },
+  {
+    "question": "ऋग्वेद के किस मंडल (Mandala) में प्रसिद्ध 'गायत्री मंत्र' (Gayatri mantra) संकलित है, जो सूर्य देव की स्तुति में है?",
+    "options": [
+      "प्रथम (First)",
+      "तृतीय (Third)",
+      "दशम (Tenth)",
+      "अष्टम (Eighth)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "तीसरा मंडल (3rd Mandala) गायत्री मंत्र (Gayatri mantra) को समाहित करता है, जिसे सूर्य देव की स्तुति में संकलित किया गया था [18, 19]।"
+  },
+  {
+    "question": "ऋग्वैदिक काल में, तांबे या कांसे (Copper/bronze) के लिए किस शब्द का प्रयोग किया जाता था?",
+    "options": [
+      "निश्का (Nishka)",
+      "कृष्णल (Krishnal)",
+      "अयस (Ayas)",
+      "यव (Yava)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ऋग्वैदिक शब्दों में, 'अयस' (Ayas) का अर्थ तांबा/कांसा था [21, 22]।"
+  },
+  {
+    "question": "'दसराजन युद्ध' (Dasrajan War) किस नदी के तट पर लड़ा गया था?",
+    "options": [
+      "वितस्ता (Vitasta)",
+      "असिकनी (Asikni)",
+      "परुष्णि (Parushni)",
+      "सतलुद्री (Sutudri)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "दस राजाओं (10 kings) की लड़ाई सुदास (Sudas) के खिलाफ परुष्णि नदी (River Parushni) के तट पर लड़ी गई थी [20, 23]।"
+  },
+  {
+    "question": "किस वैदिक साहित्य को 'वेदांत' (Vedanta) के नाम से भी जाना जाता है?",
+    "options": [
+      "वेद (Vedas)",
+      "आरण्यक (Aranyakas)",
+      "उपनिषद (Upanishadas)",
+      "ब्राह्मण (Brahmanas)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "उपनिषदों (Upanishadas) को 'वेदांत' के नाम से भी जाना जाता है, जो सही विश्वास और ज्ञान के मूल्य पर जोर देते हैं [24, 25]।"
+  },
+  {
+    "question": "ऋग्वैदिक काल में, वस्तुओं के आदान-प्रदान (unit of exchange) की मानक इकाई क्या थी?",
+    "options": [
+      "जौ (Barley)",
+      "सोना (Gold)",
+      "गाय (Cow)",
+      "चाँदी (Silver)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "गाय (Cow) विनिमय (exchange) की एक मानक इकाई थी [20, 21]।"
+  },
+  {
+    "question": "'शतपथ ब्राह्मण' (Satapatha Brahmana) किस वेद से जुड़ा हुआ है?",
+    "options": [
+      "ऋग्वेद (Rigveda)",
+      "सामवेद (Samaveda)",
+      "यजुर्वेद (Yajurveda)",
+      "अथर्ववेद (Atharvaveda)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "यजुर्वेद (Yajurveda) के ब्राह्मण ग्रंथ तैत्तिरीय (Taittiriya) और शतपथ (Satapatha) हैं [26, 27]।"
+  },
+  {
+    "question": "किस युद्ध को 'गाविष्ठी' (Gavisthi) कहा जाता था?",
+    "options": [
+      "घोड़ों के लिए युद्ध (War for horses)",
+      "राजा के लिए युद्ध (War for Rajan)",
+      "गायों की खोज/युद्ध (Search for cows/war for cows)",
+      "भूमि के लिए युद्ध (War for land)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'गाविष्ठी' (Gavisthi) का अर्थ है लड़ाई करने वाली भीड़ या गायों की खोज/युद्ध [21, 22]।"
+  },
+  {
+    "question": "कौन सा उपवेद (Upaveda) चिकित्सा (Medicine) से संबंधित है?",
+    "options": [
+      "धनुर्वेद (Dhanurveda)",
+      "गंधर्ववेद (Gandharva-veda)",
+      "शिल्पवेद (Shilpaveda)",
+      "आयुर्वेद (Ayurveda)"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "आयुर्वेद (Ayurveda), जो चिकित्सा से संबंधित है, ऋग्वेद का उपवेद है [28, 29]।"
+  },
+  {
+    "question": "ऋग्वेद में संकलित 'निश्क' (Nishka) और 'कृष्णल' (Krishnal) क्या थे?",
+    "options": [
+      "बर्तन (Pottery)",
+      "आभूषण (Ornaments)",
+      "सोने के सिक्के (Gold coins)",
+      "प्रशासनिक पद (Administrative titles)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "निश्का (Nishka) और कृष्णल (Krishnal) सोने के सिक्के थे [20, 21]।"
+  },
+  {
+    "question": "किस वैदिक ग्रंथ में 'पूरुषसूक्त' (Purushasukta) भजन है जो चार वर्णों (four varnas) के बारे में बताता है?",
+    "options": [
+      "ऋग्वेद (Rigveda) का 10वाँ मंडल (10th Mandala)",
+      "यजुर्वेद (Yajurveda)",
+      "सामवेद (Samaveda)",
+      "अथर्ववेद (Atharvaveda)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ऋग्वेद का 10वाँ मंडल (10th Mandala) पुरूषसूक्त (Purushasukta) भजन समाहित करता है, जो चार वर्णों की व्याख्या करता है [18, 19]।"
+  },
+  {
+    "question": "बाद के वैदिक काल (Later Vedic Period) में, कौन सा अनुष्ठान राजा की स्थिति को मजबूत करने के लिए इस्तेमाल किया जाता था?",
+    "options": [
+      "वाजपेय यज्ञ (Vajapeya Yajnas)",
+      "गविष्ठी (Gavisthi)",
+      "बलि (Bali)",
+      "यज्ञ (Yajna)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "राजा का पद अश्वमेध (Ashwamedha) और वाजपेय यज्ञों (Vajapeya Yajnas) जैसे अनुष्ठानों से मजबूत हुआ [30, 31]।"
+  },
+  {
+    "question": "ऋग्वैदिक काल में पुरोहित (Purohita) के बाद राजा को प्रशासन में सहायता करने वाला सबसे महत्वपूर्ण अधिकारी कौन था?",
+    "options": [
+      "सेनानी (Senani)",
+      "ग्रामणी (Gramani)",
+      "वज्रपति (Vajrapati)",
+      "राजा"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "दिन-प्रतिदिन के प्रशासन में, राजा को पुरोहित (सबसे महत्वपूर्ण), एक सेनानी (Senani) और ग्रामणी (Gramani) द्वारा सहायता प्रदान की जाती थी [16, 17]।"
+  },
+  {
+    "question": "वेदांगों (Vedangas) में से 'निरुक्त' (Nikrukta) किस विषय से संबंधित है?",
+    "options": [
+      "उच्चारण (Pronunciation)",
+      "व्याकरण (Grammar)",
+      "व्युत्पत्ति (Etymology)",
+      "ज्योतिष (Astrology)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "वेदांगों में 'निरुक्त' (Nikrukta) व्युत्पत्ति (Etymology) से संबंधित है, जबकि 'शिक्षा' (Shiksha) उच्चारण से संबंधित है [24, 32]।"
+  },
+  {
+    "question": "सबसे पुराना पुराण (Purana) कौन सा है?",
+    "options": [
+      "विष्णु पुराण (Vishnu Purana)",
+      "मत्स्य पुराण (Matsya Purana)",
+      "वायु पुराण (Vayu Purana)",
+      "भागवत पुराण (Bhagavata Purana)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "18 प्रसिद्ध 'पुराणों' में 'मत्स्य पुराण' (Matsya Purana) सबसे पुराना है [28, 32]।"
+  },
+  {
+    "question": "बाद के वैदिक काल (Later Vedic Period) में, गाँव का नेतृत्व कौन करता था?",
+    "options": [
+      "राजन (Rajan)",
+      "सेनानी (Senani)",
+      "ग्रामणी (Gramani)",
+      "पुरोहित (Purohita)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "गाँवों का नेतृत्व ग्रामणी (Gramani) करता था [16, 17]।"
+  },
+  {
+    "question": "प्राचीन भारत की पहली कानून की किताब (first law book) किसे माना जाता है?",
+    "options": [
+      "नारदस्मृति (Naradasmriti)",
+      "याज्ञवल्क्य-स्मृति (Yajnavalkya-smriti)",
+      "मनुस्मृति (Manusmriti)",
+      "पराशरस्मृति (Parasharasmriti)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "मनुस्मृति (Manusmriti) को पहला कानून ग्रंथ (first law book) माना जाता है [24, 25]।"
+  },
+  {
+    "question": "बाद के वैदिक ग्रंथों में चावल को किस नाम से जाना जाता था?",
+    "options": [
+      "यव (Yava)",
+      "वृहि (Vrihi)",
+      "गोधूम (Godhuma)",
+      "अयस (Ayas)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "बाद के वैदिक ग्रंथों में चावल को 'वृहि' (Vrihi) कहा जाता था [33, 34]।"
+  },
+  {
+    "question": "जैन धर्म के संस्थापक ऋषभदेव (Rishabhadeva) का प्रतीक (Emblem) क्या था?",
+    "options": [
+      "सर्प (Snake)",
+      "सिंह (Lion)",
+      "बैल (Bull)",
+      "हाथी (Elephant)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "जैन धर्म की स्थापना ऋषभदेव ने की थी, जिनका प्रतीक बैल (Bull) था [35, 36]।"
+  },
+  {
+    "question": "जैन धर्म के 24वें तीर्थंकर (Tirthankara) वर्धमान महावीर (Vardhamana Mahavira) के प्रथम शिष्य (first disciple) कौन थे?",
+    "options": [
+      "भद्रबाहु (Bhadrabahu)",
+      "स्थूलभद्र (Sthulbhadra)",
+      "जमाली (Jamali)",
+      "पार्श्वनाथ (Parshvanatha)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "महावीर की पुत्री प्रियदर्शिनी (Priyadarshini) के पति जमाली (Jamali) उनके पहले शिष्य बने [36, 37]।"
+  },
+  {
+    "question": "बौद्ध धर्म में त्रिपिटक (Tripitakas) किस भाषा में लिखे गए थे?",
+    "options": [
+      "संस्कृत (Sanskrit)",
+      "पाली (Pali)",
+      "प्राकृत (Prakrit)",
+      "अर्ध मागधी (Ardh Magadhi)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "बौद्ध साहित्य पाली (Pali) भाषा में लिखे गए थे, जिन्हें आमतौर पर त्रिपिटक (Tripitakas) कहा जाता है [38, 39]।"
+  },
+  {
+    "question": "जैन धर्म के 'त्रिरत्न' (Triratnas) में से कौन सा नहीं है?",
+    "options": [
+      "सम्यक ज्ञान (Right knowledge)",
+      "सम्यक आस्था (Right faith)",
+      "सम्यक आचरण (Right conduct)",
+      "सम्यक प्रयास (Right effort)"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "जैन धर्म के त्रिरत्न हैं: सम्यक ज्ञान (Right knowledge), सम्यक आस्था (Right faith) और सम्यक आचरण (Right conduct) [40, 41]।"
+  },
+  {
+    "question": "किस शासक के शासनकाल में जैन धर्म दिगंबर (Digambaras) और श्वेताम्बर (Svetambaras) में विभाजित हो गया?",
+    "options": [
+      "बिंबिसार (Bimbisara)",
+      "महापद्म नंद (Mahapadma Nanda)",
+      "चंद्रगुप्त मौर्य (Chandragupta Maurya)",
+      "अशोक (Ashoka)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "चंद्रगुप्त मौर्य (Chandragupta Maurya) के शासनकाल के दौरान मगध में अकाल के कारण जैन धर्म दो संप्रदायों - श्वेताम्बर (Svetambaras) और दिगंबर (Digambaras) में विभाजित हो गया [42, 43]।"
+  },
+  {
+    "question": "बौद्ध धर्म में 'महापरिनिर्वाण' (Mahaparinirvana - Death) का प्रतीक क्या है?",
+    "options": [
+      "घोड़ा (Horse)",
+      "बोधि वृक्ष (Bodhi Tree)",
+      "स्तूप (Stupa)",
+      "पहिया (Wheel)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "महापरिनिर्वाण (मृत्यु) का प्रतीक स्तूप (Stupa) है [44, 45]।"
+  },
+  {
+    "question": "बौद्ध धर्म की किस परिषद (Buddhist Council) में संप्रदाय हीनयान (Hinayana) और महायान (Mahayana) दो मुख्य संप्रदायों में विभाजित हो गया?",
+    "options": [
+      "प्रथम (First) (483 ईसा पूर्व)",
+      "द्वितीय (Second) (383 ईसा पूर्व)",
+      "तृतीय (Third) (250 ईसा पूर्व)",
+      "चतुर्थ (Fourth) (AD 72)"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "चौथी बौद्ध परिषद (Fourth Buddhist Council) में, कनिष्क (Kanishka) के संरक्षण में, बौद्ध धर्म हीनयान और महायान में विभाजित हो गया [46, 47]।"
+  },
+  {
+    "question": "बौद्ध साहित्य में, कौन सा पिटक (Pitaka) बौद्ध मठों में अनुशासन के नियमों (Rules of discipline in Buddhist monasteries) से संबंधित है?",
+    "options": [
+      "सुत्त पिटक (Sutta Pitaka)",
+      "विनय पिटक (Vinaya Pitaka)",
+      "अभिधम्म पिटक (Abhidhamma Pitaka)",
+      "महावंस (Mahavamsha)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "विनय पिटक (Vinaya Pitaka) में बौद्ध मठों में अनुशासन के नियम (Rules of discipline) शामिल हैं [38, 48]।"
+  },
+  {
+    "question": "महाजनपद काल (Mahajanapada Period) में, मगध (Magadha) की प्रारंभिक राजधानी क्या थी?",
+    "options": [
+      "वैशाली (Vaishali)",
+      "कौशाम्बी (Kaushambi)",
+      "गिरिव्रज/राजगृह (Girivraj/Rajagriha)",
+      "श्रावस्ती (Sravasti)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "बिंबिसार के अधीन मगध की राजधानी गिरिव्रज/राजगृह (Girivraj/Rajagriha) थी [49, 50]।"
+  },
+  {
+    "question": "महाजनपद 'अस्मक' (Asmaka) किस नदी के तट पर स्थित था?",
+    "options": [
+      "गंगा (Ganga)",
+      "यमुना (Yamuna)",
+      "गोदावरी (Godavari)",
+      "कावेरी (Cauveri)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "अस्मक (Asmaka) महाजनपद गोदावरी नदी (River Godavari) के पास स्थित था [35, 51]।"
+  },
+  {
+    "question": "बौद्ध परिषद (Buddhist Council) का सही क्रम (कालक्रम के अनुसार) क्या है?",
+    "options": [
+      "राजगृह, वैशाली, पाटलिपुत्र, कुंडलवन (Rajagriha, Vaishali, Patliputra, Kundalvana)",
+      "पाटलिपुत्र, वैशाली, राजगृह, कुंडलवन",
+      "वैशाली, राजगृह, पाटलिपुत्र, कुंडलवन",
+      "कुंडलवन, पाटलिपुत्र, वैशाली, राजगृह"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "चारों बौद्ध परिषदों का सही क्रम है: प्रथम (राजगृह), द्वितीय (वैशाली), तृतीय (पाटलिपुत्र), और चतुर्थ (कुंडलवन) [46, 47]।"
+  },
+  {
+    "question": "जैन धर्म के पाँच सिद्धांतों (Five Doctrines) में से चौथा सिद्धांत क्या है?",
+    "options": [
+      "अहिंसा (Ahimsa) (हिंसा न करना)",
+      "अस्तेय (Asteya) (चोरी न करना)",
+      "अपरिग्रह (Aparigraha) (संपत्ति जमा न करना)",
+      "सत्य (Satya) (झूठ न बोलना)"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "पाँच सिद्धांतों में से चौथा है झूठ न बोलना (Do not speak lie) [40, 41]।"
+  },
+  {
+    "question": "किस शासक ने द्वितीय बौद्ध संगीति (Second Buddhist Council) का आयोजन किया था?",
+    "options": [
+      "अजातशत्रु (Ajatashatru)",
+      "कालाशोक (Kalashoka)",
+      "अशोक (Ashoka)",
+      "कनिष्क (Kanishka)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "द्वितीय बौद्ध संगीति 383 ईसा पूर्व में कालाशोक (Kalashoka) के संरक्षण में वैशाली में आयोजित की गई थी [46, 47]।"
+  },
+  {
+    "question": "प्राचीन भारत में जैन मठों (Jain monastic establishments) को क्या कहा जाता था?",
+    "options": [
+      "विहार (Viharas)",
+      "चैत्य (Chaityas)",
+      "बसदी (Basadis)",
+      "स्तूप (Stupas)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "जैन मठों को बसदी (Basadis) कहा जाता था [40, 43]।"
+  },
+  {
+    "question": "कौशाम्बी (Kaushambi) किस महाजनपद की राजधानी थी, जो यमुना नदी (River Yamuna) के किनारे स्थित था?",
+    "options": [
+      "काशी (Kashi)",
+      "वत्स (Vatsa)",
+      "चेदि (Chedi)",
+      "कुरु (Kuru)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "कौशाम्बी (Kaushambi) वत्स महाजनपद की राजधानी थी [50, 52]।"
+  },
+  {
+    "question": "हर्यंक वंश (Haryanka Dynasty) का संस्थापक कौन था, जो बुद्ध के समकालीन था?",
+    "options": [
+      "अजातशत्रु (Ajatashatru)",
+      "उदायिन (Udayin)",
+      "बिम्बिसार (Bimbisara)",
+      "कालाशोक (Kalashoka)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "बिंबिसार (Bimbisara) हर्यंक वंश (Haryanka Dynasty) का संस्थापक था और बुद्ध के समकालीन था [48, 53]।"
+  },
+  {
+    "question": "'तथागत' (Tathagata) किस धर्म के संस्थापक का दूसरा नाम था?",
+    "options": [
+      "जैन धर्म (Jainism)",
+      "बौद्ध धर्म (Buddhism)",
+      "आजीवक (Ajivika)",
+      "शैव धर्म (Shaivism)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "गौतम बुद्ध को सिद्धार्थ (Siddhartha), शाक्यमुनि (Sakyamuni) या तथागत (Tathagata) के नाम से भी जाना जाता है [54, 55]।"
+  },
+  {
+    "question": "बौद्ध साहित्य में, 'सुत्त पिटक' (Sutta Pitaka) की मुख्य सामग्री क्या है?",
+    "options": [
+      "दार्शनिक सिद्धांतों की व्याख्या",
+      "बुद्ध के उपदेशों और शिक्षाओं का संग्रह",
+      "मठवासी अनुशासन के नियम",
+      "भिक्षुओं के लिए नियम"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "सुत्त पिटक में बुद्ध के उपदेशों और शिक्षाओं का संग्रह (collection of Buddha's sermons and teachings) है, और यह तीनों पिटकों में सबसे बड़ा है [38, 48]।"
+  },
+  {
+    "question": "उदायिन (Udayin) द्वारा स्थापित नई राजधानी कौन सी थी, जिसे बाद में पाटलिपुत्र (Pataliputra) के नाम से जाना गया?",
+    "options": [
+      "वैशाली (Vaishali)",
+      "पाटलिपुत्र (Pataliputra)",
+      "गिरिव्रज (Girivraja)",
+      "चम्पा (Champa)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "उदायिन ने नई राजधानी पाटलिपुत्र (Pataliputra) की स्थापना की [47, 53]।"
+  },
+  {
+    "question": "बौद्ध धर्म के पतन (decline) का एक कारण क्या था?",
+    "options": [
+      "पाली (Pali) के स्थान पर संस्कृत (Sanskrit) का प्रयोग",
+      "महायान संप्रदाय का उदय",
+      "ब्राह्मणों के प्रभुत्व को चुनौती",
+      "मूर्तियों की पूजा का प्रारंभ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "बौद्ध धर्म के पतन का कारण आम लोगों की भाषा पाली के स्थान पर बुद्धिजीवियों की भाषा संस्कृत का प्रयोग (Use of Sanskrit in place of Pali) था [48, 53]।"
+  },
+  {
+    "question": "मौर्य वंश (Mauryan Dynasty) का संस्थापक कौन था, जिसने चाणक्य (Chanakya) की सहायता से नंद वंश (Nanda dynasty) को उखाड़ फेंका?",
+    "options": [
+      "बिन्दुसार (Bindusara)",
+      "अशोक (Ashoka)",
+      "चंद्रगुप्त मौर्य (Chandragupta Maurya)",
+      "बृहद्रथ (Brihadratha)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "चंद्रगुप्त मौर्य (Chandragupta Maurya) ने चाणक्य (Chanakya) की सहायता से नंद वंश को उखाड़ फेंका [56, 57]।"
+  },
+  {
+    "question": "चंद्रगुप्त मौर्य (Chandragupta Maurya) को यूनानी विद्वानों (Greek scholars) द्वारा क्या कहा जाता था?",
+    "options": [
+      "अमित्रघात (Amitraghat)",
+      "देवनामप्रिय (Devanamapriya)",
+      "सैंड्रोकोट्टस (Sandrocottus)",
+      "विक्रमादित्य (Vikramaditya)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "यूनानी विद्वानों (Greek scholars) द्वारा चंद्रगुप्त मौर्य को सैंड्रोकोट्टस (Sandrocottus) कहा गया है [56, 57]।"
+  },
+  {
+    "question": "अशोक (Ashoka) का नाम केवल किन लघु शिला लेखों (Minor Rock Edicts) की प्रतियों में आता है?",
+    "options": [
+      "13वाँ मेजर रॉक एडिक्ट",
+      "मेजर रॉक एडिक्ट I",
+      "माइनर रॉक एडिक्ट I (Minor Rock Edict I)",
+      "कलिंग रॉक एडिक्ट"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "अशोक (Ashoka) का नाम केवल माइनर रॉक एडिक्ट I (Minor Rock Edict I) की प्रतियों में आता है [58, 59]।"
+  },
+  {
+    "question": "अशोक के शिलालेखों (Ashokan inscriptions) की ब्राह्मी लिपि (Brahmi script) को सबसे पहले किसने समझा (deciphered) था?",
+    "options": [
+      "विलियम जोंस (William Jones)",
+      "जेम्स प्रिंसेप (James Princep)",
+      "मैक्स मुलर (Max Muller)",
+      "आर. डी. बनर्जी (R.D. Bannerji)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "जेम्स प्रिंसेप (James Princep) ने AD 1837 में अशोक के शिलालेखों की ब्राह्मी लिपि (Brahmi script) को सबसे पहले समझा [59, 60]।"
+  },
+  {
+    "question": "किस शिलालेख (Major Rock Edict) में कलिंग युद्ध (Kalinga War, 261 BC) का उल्लेख है, जिसके बाद अशोक बौद्ध बन गया?",
+    "options": [
+      "10वाँ",
+      "11वाँ",
+      "13वाँ",
+      "12वाँ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "13वें मेजर रॉक एडिक्ट (13th Major Rock Edict) में कलिंग युद्ध (Kalinga War) का उल्लेख है, जिसके बाद अशोक उपगुप्त (Upagupta) के अधीन बौद्ध बन गया [59, 60]।"
+  },
+  {
+    "question": "शुंग वंश (Sunga Dynasty) की स्थापना किसने की थी?",
+    "options": [
+      "वसुदेव (Vasudeva)",
+      "पुष्यमित्र शुंग (Pushyamitra Sunga)",
+      "देवभूति (Devabhuti)",
+      "सिमुक (Simuka)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "पुष्यमित्र शुंग (Pushyamitra Sunga) ने अंतिम मौर्य राजा बृहद्रथ (Brihadratha) को मारकर शुंग वंश की स्थापना की [60, 61]।"
+  },
+  {
+    "question": "किस इंडो-ग्रीक (Indo-Greek) शासक को 'मिलिंद' (Milinda) भी कहा जाता था और उसकी राजधानी कहाँ थी?",
+    "options": [
+      "गोंडोफर्नेस (Gondophernes)",
+      "रुद्रदामन I (Rudradaman I)",
+      "मेंनांडर (Menander)/साकला (Sakala)",
+      "तोरमण (Toramana)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "इंडो-ग्रीक शासक मेंनांडर (Menander) को मिलिंद (Milinda) भी कहा जाता था, जिसकी राजधानी पंजाब में साकला (Sakala) थी [62, 63]।"
+  },
+  {
+    "question": "किसने सबसे पहले भारत में सोने के सिक्के (gold coins) जारी किए?",
+    "options": [
+      "मौर्य (Mauryas)",
+      "शुंग (Sungas)",
+      "इंडो-यूनानी (Indo-Greeks)",
+      "कुषाण (Kushanas)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "यूनानी (Greeks) पहले थे जिन्होंने राजा के नाम वाले सिक्के जारी किए और भारत में सोने के सिक्के जारी करने वाले पहले शासक थे [63, 64]।"
+  },
+  {
+    "question": "शक युग (Saka Era) किसने शुरू किया था और कब?",
+    "options": [
+      "विक्रमादित्य (Vikramaditya) 57 ई.पू.",
+      "कनिष्क (Kanishka) 78 ई. (AD 78)",
+      "रुद्रदामन I (Rudradaman I) 130 ई.",
+      "सिमुक (Simuka) 60 ई.पू."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "कुषाणों में सबसे महान कनिष्क (Kanishka) था, जिसने 78 ई. में शक युग (Saka Era) शुरू किया [65, 66]।"
+  },
+  {
+    "question": "किस विदेशी यात्री (foreign traveller) ने गोंडोफर्नेस (Gondophernes) के शासनकाल में भारत का दौरा किया, जिसका संबंध ईसाई धर्म (Christianity) के प्रचार से था?",
+    "options": [
+      "मेगास्थनीज (Megasthenese)",
+      "फा-हिएन (Fa-hien)",
+      "ह्वेन त्सांग (Hieun Tsang)",
+      "संत थॉमस (St Thomas)"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "पार्थियन राजा गोंडोफर्नेस (Gondophernes) के शासनकाल (AD 19-45) के दौरान संत थॉमस (St Thomas) ने भारत का दौरा किया [65, 66]।"
+  },
+  {
+    "question": "किस शासक ने 'सुदर्शन झील' (Sudarshana lake) की मरम्मत करवाई थी, और अपना शिलालेख चaste Sanskrit में जारी किया?",
+    "options": [
+      "चंद्रगुप्त मौर्य",
+      "अशोक",
+      "रुद्रदामन I (Rudradaman I)",
+      "गौतमीपुत्र सातकर्णी"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "शक शासक रुद्रदामन I (Rudradaman I) ने काठियावाड़ क्षेत्र में सुदर्शन झील (Sudarshana lake) की मरम्मत करवाई और चaste Sanskrit में पहला शिलालेख जारी किया [63, 64]।"
+  },
+  {
+    "question": "सातवाहन (Satavahanas) वंश की आधिकारिक भाषा क्या थी?",
+    "options": [
+      "संस्कृत (Sanskrit)",
+      "तमिल (Tamil)",
+      "प्राकृत (Prakrit)",
+      "तेलुगु (Telugu)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "सातवाहन (Satavahanas) की आधिकारिक भाषा प्राकृत (Prakrit) थी [67, 68]।"
+  },
+  {
+    "question": "किस युग को भारतीय इतिहास का 'स्वर्ण युग' (golden age) कहा जाता है, जिसके दौरान सोने के सिक्कों (gold coins) की सबसे बड़ी संख्या जारी की गई?",
+    "options": [
+      "मौर्य काल (Mauryan Period)",
+      "गुप्त काल (Gupta Period)",
+      "वर्धन काल (Vardhana Period)",
+      "कुषाण काल (Kushana Period)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "गुप्त काल (Gupta age) को भारतीय इतिहास का स्वर्ण युग कहा जाता है और इसमें सबसे बड़ी संख्या में सोने के सिक्के जारी किए गए [69, 70]।"
+  },
+  {
+    "question": "किस गुप्त शासक को 'भारत का नेपोलियन' (Napoleon of India) कहा जाता है, और यह उपाधि किसने दी थी?",
+    "options": [
+      "चंद्रगुप्त I (Chandragupta I)",
+      "समुद्रगुप्त (Samudragupta)",
+      "चंद्रगुप्त II (Chandragupta II)",
+      "कुमारगुप्त I (Kumaragupta I)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "समुद्रगुप्त (Samudragupta) को उनकी विजयों के कारण वी. ए. स्मिथ (VA Smith) द्वारा 'भारत का नेपोलियन' कहा जाता है [71, 72]।"
+  },
+  {
+    "question": "किस गुप्त शासक के दरबार में 'नवरत्न' (Navratnas) थे, जिनमें कालिदास (Kalidasa) और अमरसिंह (Amarsimha) मुख्य थे?",
+    "options": [
+      "चंद्रगुप्त I",
+      "समुद्रगुप्त",
+      "चंद्रगुप्त II",
+      "स्कंदगुप्त"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "चंद्रगुप्त द्वितीय (Chandragupta II) के दरबार में नवरत्न (Navratnas) सुशोभित थे [69, 73]।"
+  },
+  {
+    "question": "'मेहराउली शिलालेख' (Mehrauli inscription) किस गुप्त शासक से संबंधित है?",
+    "options": [
+      "समुद्रगुप्त",
+      "चंद्रगुप्त I",
+      "चंद्रगुप्त II",
+      "स्कंदगुप्त"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "कुतुब मीनार (Qutub Minar) के पास लौह स्तंभ (Iron Pillar) पर मेहराउली शिलालेख (Mehrauli inscription) चंद्रगुप्त द्वितीय (Chandragupta II) से संबंधित है [71, 73]।"
+  },
+  {
+    "question": "किस चीनी तीर्थयात्री (Chinese Pilgrim) ने चंद्रगुप्त द्वितीय (Chandragupta II) के शासनकाल में दौरा किया था?",
+    "options": [
+      "ह्वेन त्सांग (Hieun Tsang)",
+      "फा-हिएन (Fa-hien)",
+      "इत्सिंग (Itsing)",
+      "ह्वेन त्सांग"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "चीनी तीर्थयात्री फा-हिएन (Fa-hien) ने AD 399-414 के दौरान चंद्रगुप्त द्वितीय (Chandragupta II) के शासनकाल में दौरा किया था [69, 73]।"
+  },
+  {
+    "question": "गुप्त काल (Gupta age) में सोने के सिक्कों (gold coins) को किस नाम से जाना जाता था?",
+    "options": [
+      "दीनार (Dinar)",
+      "रूपक (Rupaka)",
+      "टंका (Tanka)",
+      "जीतल (Jital)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "गुप्त युग को भारतीय इतिहास का स्वर्ण युग कहा जाता है और यहां सोने के सिक्कों (gold coins) को दीनार (Dinar) कहा जाता था [69, 70]।"
+  },
+  {
+    "question": "'हुणों' (Hunas) के आक्रमण के दौरान गुप्त साम्राज्य का शासक कौन था?",
+    "options": [
+      "समुद्रगुप्त",
+      "कुमारगुप्त I",
+      "स्कंदगुप्त (Skandagupta)",
+      "रामगुप्त"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "स्कंदगुप्त (Skandagupta) अंतिम महान गुप्त शासक थे, और उनके शासनकाल के दौरान गुप्त साम्राज्य पर हुणों (Hunas) ने आक्रमण किया था [74, 75]।"
+  },
+  {
+    "question": "'नालंदा महाविहार' (Nalanda Mahavihara) की स्थापना किस गुप्त शासक ने की थी?",
+    "options": [
+      "चंद्रगुप्त I",
+      "समुद्रगुप्त",
+      "कुमारगुप्त I (Kumaragupta I)",
+      "स्कंदगुप्त"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "कुमारगुप्त I (Kumaragupta I) ने 'नालंदा महाविहार' (Nalanda Mahavihara) की स्थापना की, जो शिक्षा का एक महान केंद्र बन गया [74, 75]।"
+  },
+  {
+    "question": "हर्षवर्धन (Harshavardhana) ने अपनी राजधानी कहाँ स्थानांतरित की थी?",
+    "options": [
+      "पाटलिपुत्र (Pataliputra)",
+      "कन्नौज (Kannauj)",
+      "थानेश्वर (Thaneshwar)",
+      "उज्जैन (Ujjain)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "हर्षवर्धन (Harshavardhana) ने थानेश्वर (Thaneshwar) से अपनी राजधानी कन्नौज (Kannauj) स्थानांतरित कर दी [76, 77]।"
+  },
+  {
+    "question": "बाणभट्ट (Banabhata), जो हर्षवर्धन के दरबारी कवि थे, ने कौन सी रचना लिखी?",
+    "options": [
+      "रत्नावली (Ratnawali)",
+      "प्रियदर्शिका (Priyadarshika)",
+      "हर्षचरित (Harshacharita) और कादम्बरी (Kadambari)",
+      "नागानंद (Nagananda)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "बाणभट्ट (Banabhata) ने हर्षचरित (Harshacharita) और कादम्बरी (Kadambari) लिखी [76, 77]।"
+  },
+  {
+    "question": "राष्ट्रकूट (Rashtrakutas) वंश का संस्थापक कौन था?",
+    "options": [
+      "दंतिदुर्ग (Dantidurg)",
+      "कृष्ण प्रथम (Krishna I)",
+      "अमोघवर्ष (Amoghavarsha)",
+      "विजयलय (Vijayalaya)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "राष्ट्रकूट वंश की स्थापना दंतिदुर्ग (Dantidurg) ने की थी [76, 77]।"
+  },
+  {
+    "question": "एलोरा (Ellora) में प्रसिद्ध कैलाश मंदिर (Kailasha temple) का निर्माण किस राष्ट्रकूट शासक ने करवाया था?",
+    "options": [
+      "दंतिदुर्ग",
+      "कृष्ण प्रथम (Krishna I)",
+      "अमोघवर्ष",
+      "ध्रुव"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "एलोरा (Ellora) में कैलाश मंदिर (Kailasha temple) का निर्माण कृष्ण प्रथम (Krishna I) ने करवाया था [76, 77]।"
+  },
+  {
+    "question": "कोणार्क (Konark) का सूर्य मंदिर (Sun Temple) किस गंग शासक ने बनवाया था?",
+    "options": [
+      "अनंतवर्मन (Anantvarman)",
+      "नरसिंहदेव I (Narsimhadeva I)",
+      "कृष्ण I",
+      "विजयलय"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "नरसिंहदेव I (Narsimhadeva I) ने कोणार्क (Konark) में सूर्य मंदिर (Sun Temple) का निर्माण करवाया [78, 79]।"
+  },
+  {
+    "question": "पल्लवों (Pallavas) के किस शासक ने मामल्लपुरम (Mamallapuram)/महाबलीपुरम (Mahabalipuram) शहर की स्थापना की और शैल-उत्कीर्ण रथों (rock-cut rathas) का निर्माण करवाया?",
+    "options": [
+      "सिंहविष्णु (Simhavishnu)",
+      "महेंद्रवर्मन (Mahendravarman)",
+      "नरसिंहवर्मन (Narsimhavarman)",
+      "अपराजितवर्मन (Aparajitavarman)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "पल्लवों में महान राजा नरसिंहवर्मन (Narsimhavarman) थे, जिन्होंने मामल्लपुरम की स्थापना की और शैल-उत्कीर्ण रथों का निर्माण करवाया [78, 79]।"
+  },
+  {
+    "question": "चोल वंश (Chola dynasty) के संस्थापक कौन थे?",
+    "options": [
+      "आदित्य I",
+      "विजयालय (Vijayalaya)",
+      "राजराजा I (Rajaraja I)",
+      "राजेंद्र I (Rajendra I)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "चोल वंश के संस्थापक विजयालय (Vijayalaya) थे, जिनकी राजधानी तंजौर (Tanjore) थी [80, 81]।"
+  },
+  {
+    "question": "चोल काल (Chola period) में स्थानीय स्वशासन (Local self government) किस विशेषता के लिए प्रसिद्ध था?",
+    "options": [
+      "केंद्र सरकार का प्रभुत्व",
+      "राजा का पूर्ण नियंत्रण",
+      "स्थानीय स्वशासन का अस्तित्व (existed)",
+      "सामंती व्यवस्था"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "चोल काल (Chola period) में स्थानीय स्वशासन (Local self government) का अस्तित्व था [82, 83]।"
+  },
+  {
+    "question": "किस चोल राजा ने 'गंगईकोंडा' (Gangaikonda) की उपाधि धारण की थी और 'गंगईकोंडा चोलपुरम' (Gangaikonda Cholapuram) की स्थापना की थी?",
+    "options": [
+      "राजराजा I",
+      "राजेंद्र I (Rajendra I)",
+      "आदित्य I",
+      "पुरंतक I"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "राजेंद्र I (Rajendra I) ने पूरे श्रीलंका पर कब्जा कर लिया, 'गंगईकोंडा' (Gangaikonda) की उपाधि धारण की और गंगईकोंडा चोलपुरम की स्थापना की [82, 84]।"
+  },
+  {
+    "question": "संगम युग (Sangam Age) में पाण्ड्यों (Pandyas) की राजधानी मदुरै (Madurai) किसलिए प्रसिद्ध थी, जिसका उल्लेख मेगास्थनीज ने किया था?",
+    "options": [
+      "मसाले (Spices)",
+      "कपास (Cotton)",
+      "मोती (Pearls)",
+      "लोहा (Iron)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "पाण्ड्यों (Pandyas) की राजधानी मदुरै (Madurai) मोतियों (pearls) के लिए प्रसिद्ध थी, और पांड्यों का उल्लेख सबसे पहले मेगास्थनीज ने किया था [68, 85]।"
+  },
+  {
+    "question": "पल्लव राजा नरसिंहवर्मन I (Narsimhavarman I) ने शैल-उत्कीर्ण रथों (rock-cut rathas) का निर्माण करवाया। इन रथों को और किस नाम से जाना जाता था?",
+    "options": [
+      "कैलाश (Kailasha)",
+      "द्रविड़ (Dravida)",
+      "पगोडा (Pagodas)",
+      "बृहदेश्वर (Brihadeshvara)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "नरसिंहवर्मन (Narsimhavarman) ने शैल-उत्कीर्ण रथों (rock-cut rathas) और यहां तक कि पगोडा (pagodas) का निर्माण किया [78, 79]।"
+  },
+  {
+    "question": "किस शासक की अध्यक्षता में संगम (Sangam) की दूसरी परिषद (Second Sangam) आयोजित की गई थी?",
+    "options": [
+      "अगस्त्य (Agastya)",
+      "तोलकाप्पियार (Tolkappiyar)",
+      "नक्कियार (Nakkirar)",
+      "तिरुवल्लुवर (Tiruvalluvar)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "दूसरा संगम कपाटपुरम (Kapatpuram) में तोलकाप्पियार (Tolkappiyar) की अध्यक्षता में आयोजित किया गया था [86, 87]।"
+  },
+  {
+    "question": "किस शासक को 'आंध्र पितामह' (Andhra Pitamah) के नाम से भी जाना जाता था, जो साहित्य के महान संरक्षक थे?",
+    "options": [
+      "हरिहर I",
+      "देवराय I",
+      "कृष्णदेव राय (Krishnadeva Raya)",
+      "बुक्का I"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "कृष्णदेव राय (Krishnadeva Raya) को अभिनव भोज (Abhinava Bhoja), आंध्र पितामह (Andhra Pitamah) और आंध्र भोज (Andhra Bhoja) के नाम से जाना जाता था [88, 89]।"
+  },
+  {
+    "question": "विजयनगर साम्राज्य (Vijayanagara Kingdom) में अष्टदिग्गज (Ashta Diggaja) किसके दरबार में थे?",
+    "options": [
+      "देवराय I",
+      "देवराय II",
+      "कृष्णदेव राय (Krishnadeva Raya)",
+      "सदाशिव राय"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "तेलुगु के आठ महान कवि (Eight great poets of Telugu) (अष्टदिग्गज) कृष्णदेव राय (Krishnadeva Raya) के दरबार में थे [88, 89]।"
+  },
+  {
+    "question": "प्राचीन भारत में सिंचाई कार्य शुरू करने वाला पहला सुल्तान कौन था?",
+    "options": [
+      "कुतुबुद्दीन ऐबक (Qutub-ud-din-Aibak)",
+      "इल्तुतमिश (Iltutmish)",
+      "अलाउद्दीन खिलजी (Alauddin Khalji)",
+      "ग़यासुद्दीन तुगलक (Ghiyasuddin Tughlaq)"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ग़यासुद्दीन तुगलक (Ghiyasuddin Tughlaq) सिंचाई कार्य शुरू करने वाला पहला सुल्तान था [90, 91]।"
+  },
+  {
+    "question": "गुप्त काल में भूमि राजस्व (Land Revenue) की दर क्या थी?",
+    "options": [
+      "उपज का 1/4 से 1/6 भाग",
+      "उपज का 1/8 से 1/10 भाग",
+      "उपज का 1/2 से 1/3 भाग",
+      "उपज का 1/6 भाग"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "गुप्त काल में भूमि राजस्व (Land Revenue) उपज के 1/4 से 1/6 भाग तक भिन्न होता था [92]।"
+  },
+  {
+    "question": "चोल काल में 'नटराज' (Nataraja) की नृत्य करती हुई मूर्ति (Dancing Figure of Shiva) किस सामग्री से संबंधित है?",
+    "options": [
+      "पत्थर (Stone)",
+      "कांस्य (Bronze)",
+      "सोना (Gold)",
+      "हाथी दांत (Ivory)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "शिव (नटराज) की नृत्य करती हुई मूर्ति (Dancing Figure of Shiva) चोल काल (Chola period) से संबंधित है [82, 83]।"
+  },
+  {
+    "question": "किस शासक के दरबारी कवि पतंजलि ने 'महाभाष्य' (Mahabhasya) की रचना की थी?",
+    "options": [
+      "विक्रमादित्य",
+      "पुष्यमित्र शुंग (Pushyamitra Sunga)",
+      "कनिष्क",
+      "रुद्रदामन I"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "पतंजलि (Patanjali) ने शुंग काल (Sunga period) के दौरान 'महाभाष्य' (Mahabhasya) लिखा [61, 93]।"
+  },
+  {
+    "question": "'कुरल' (Kural) जिसे 'पांचवां वेद' (Fifth Veda) या 'तमिल भूमि का बाइबिल' (Bible of Tamil Land) भी कहा जाता है, किसके द्वारा लिखा गया था?",
+    "options": [
+      "इलंगो आदिगल (Ilango Adigal)",
+      "तिरुवल्लुवर (Tiruvalluvar)",
+      "नक्कियार (Nakkirar)",
+      "तोलकाप्पियार (Tolkappiyar)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "तिरुवल्लुवर (Tiruvalluvar) द्वारा लिखित 'कुरल' (Kural) को 'पांचवां वेद' (Fifth Veda) या 'तमिल भूमि का बाइबिल' कहा जाता है [72, 86]।"
+  },
+  {
+    "question": "अशोक के अभिलेखों (Ashokan edicts) में श्रीलंका (Sri Lanka) को किस नाम से पुकारा गया है?",
+    "options": [
+      "सिहलद्वीप (Sinhaladvipa)",
+      "ताम्रपर्णी (Tamrapani)",
+      "रत्नद्वीप (Ratnadvipa)",
+      "स्वर्णभूमि (Suvarnabhumi)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "अशोक के शिलालेखों (Ashokan edicts) में श्रीलंका को ताम्रपर्णी (Tamrapani) कहा गया है [93, 94]।"
+  },
+  {
+    "question": "कन्नौज (Kannauj) से पहले हर्षवर्धन (Harshavardhana) की राजधानी क्या थी?",
+    "options": [
+      "पाटलिपुत्र",
+      "थानेश्वर (Thaneshwar)",
+      "उज्जैन",
+      "मथुरा"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "हर्षवर्धन थानेश्वर (Thaneshwar) के प्रभाकर वर्धन (Prabhakar Vardhana) का पुत्र था और उसने राजधानी कन्नौज (Kannauj) में स्थानांतरित कर दी [75, 76]।"
+  },
+  {
+    "question": "किस शासक ने अवंती (Avanti) के राज्य को नष्ट (destruction) कर दिया था, जो बाद में मगध में विलय हो गया?",
+    "options": [
+      "बिंबिसार",
+      "शिशुनाग (Shishunaga)",
+      "महापद्म नंद",
+      "अजातशत्रु"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "शिशुनाग वंश (Shishunaga Dynasty) की सबसे बड़ी उपलब्धि अवंती (Avanti) का विनाश (destruction) थी [95, 96]।"
+  },
+  {
+    "question": "गुप्त काल के बाद, किस वंश के शासकों ने सबसे बड़ी संख्या में सोने के सिक्के जारी किए?",
+    "options": [
+      "इंडो-ग्रीक (Indo-Greeks)",
+      "कुषाण (Kushanas)",
+      "गुप्त (Guptas)",
+      "सातवाहन (Satavahanas)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "गुप्त युग को भारतीय इतिहास का स्वर्ण युग कहा जाता है और इसमें सोने के सिक्कों की सबसे बड़ी संख्या जारी की गई [69, 70]।"
+  },
+  {
+    "question": "हर्ष के शासनकाल में, कौन सा चीनी यात्री (Chinese traveller) भारत आया था और उसने किस विश्वविद्यालय में अध्ययन किया था?",
+    "options": [
+      "फा-हिएन (Fa-hien)",
+      "ह्वेन त्सांग (Hieun Tsang) (नालंदा)",
+      "इत-सिंग (Itsing)",
+      "फाह्यान"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ह्वेन त्सांग (Hieun Tsang) ने हर्षवर्धन (Harshavardhana) के शासनकाल में दौरा किया और उसने नालंदा में एक बड़ा मठ (large monastery) स्थापित किया [76, 77]।"
+  }
+]
